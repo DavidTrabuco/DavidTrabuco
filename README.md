@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DavidTrabuco      
+ 
                                                                                                          Seja bem-vindo (a) ao meu Github 😄
 Atualmente, estou em formação como desenvolvedora cursando Ciência da Computação, dedicando-me intensamente à minha transição de carreira escolar para o profissional. Este é um projeto pessoal e profissional que tenho abordado com grande ansiedade. Possuo skills  excepcionais de comunicação e foco em metas e objetivos.
 
