@@ -6,7 +6,7 @@
 
 Atualmente, estou em formação como desenvolvedora cursando Ciência da Computação, dedicando-me intensamente à minha transição de carreira escolar para o profissional. Este é um projeto pessoal e profissional que tenho abordado com grande ansiedade. Possuo skills  excepcionais de comunicação e foco em metas e objetivos.
 
-No campo do desenvolvimento Front-end no EBAC, estou aplicando meus conhecimentos em diversos projetos iniciais com as seguintes tecnologias: 👩‍💻 HTML, CSS, JavaScript.
+No campo do desenvolvimento Front-end no EBAC, estou aplicando meus conhecimentos em diversos projetos iniciais com as seguintes tecnologias: 👩‍💻 HTML, CSS, JavaScript e JAVA. 
 
 # Contatos 💻
 ![BLOG](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white([davidtrabuco](https://www.instagram.com/davidtrabuco_20/)))
