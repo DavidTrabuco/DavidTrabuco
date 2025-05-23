@@ -1,32 +1,58 @@
  
                                                   
 
-# Olá! Eu sou David Trabuco 👋
+<h2 align="left">Hi 👋! My name is David Trabuco</h2>
+
+###
+
+<p align="left">Atualmente, estou em formação como desenvolvedora cursando Ciência da Computação, dedicando-me intensamente à minha transição de carreira escolar para o profissional. Este é um projeto pessoal e profissional que tenho abordado com grande ansiedade. Possuo skills excepcionais de comunicação e foco em metas e objetivos.</p>
+
+###
+
+<h3 align="left">Contatos</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/davidtrabuco_20/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Statics</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidTrabuco&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidTrabuco&theme=dracula" height="150" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/DavidTrabuco/DavidTrabuco/output/snake.svg" alt="Snake animation" />
+
+###
 
 
-Atualmente, estou em formação como desenvolvedora cursando Ciência da Computação, dedicando-me intensamente à minha transição de carreira escolar para o profissional. Este é um projeto pessoal e profissional que tenho abordado com grande ansiedade. Possuo skills  excepcionais de comunicação e foco em metas e objetivos.
-
-No campo do desenvolvimento Front-end no EBAC, estou aplicando meus conhecimentos em diversos projetos iniciais com as seguintes tecnologias: 👩‍💻 HTML, CSS, JavaScript e JAVA. 
-
-# Contatos 💻
-![BLOG](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)([davidtrabuco](https://www.instagram.com/davidtrabuco_20/)
-
-
-| ------------- | ------------- |
-
-
-
-
-Possuo conhecimento em:
- 
-![BLOG](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![BLOG](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-![BLOG](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![BLOG](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
+###
 <!---
 DavidTrabuco/DavidTrabuco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
