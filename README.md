@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="left">Contatos</h3>
+<h3 align="left">Social Media </h3>
 
 ###
 
@@ -47,7 +47,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DavidTrabuco/DavidTrabuco/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
