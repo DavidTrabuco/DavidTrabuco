@@ -11,7 +11,7 @@ No campo do desenvolvimento Front-end no EBAC, estou aplicando meus conhecimento
 # Contatos 💻
 ![BLOG](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)([davidtrabuco](https://www.instagram.com/davidtrabuco_20/)
 
-| <a href="https://github.com/DavidTrabuco/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/DavidTrabuco/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+
 | ------------- | ------------- |
 
 
