@@ -7,6 +7,8 @@
 
 <p align="left">Atualmente, estou em formação como desenvolvedora cursando Ciência da Computação, dedicando-me intensamente à minha transição de carreira escolar para o profissional. Este é um projeto pessoal e profissional que tenho abordado com grande ansiedade. Possuo skills excepcionais de comunicação e foco em metas e objetivos.</p>
 
+<p align="left">Currently, I am training as a developer studying Computer Science, dedicating myself intensely to my transition from school to professional career. This is a personal and professional project that I have approached with great anxiety. I have exceptional communication skills and focus on goals and objectives.</p>
+
 ###
 
 <h3 align="left">Social Media </h3>
